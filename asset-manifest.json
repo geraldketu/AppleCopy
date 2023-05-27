@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/AppleCopy/static/css/main.54381fbc.css",
+    "main.js": "/AppleCopy/static/js/main.885658cd.js",
+    "static/js/787.c0bb0447.chunk.js": "/AppleCopy/static/js/787.c0bb0447.chunk.js",
+    "static/media/tedLassoImage.jpg": "/AppleCopy/static/media/tedLassoImage.24f64f7c7bbd442cad95.jpg",
+    "static/media/TLAPTV.jfif": "/AppleCopy/static/media/TLAPTV.fcdb7f42b7bce69fa948.jfif",
+    "static/media/LiasonAPTV.jfif": "/AppleCopy/static/media/LiasonAPTV.cc85c42855e61aac917c.jfif",
+    "static/media/AppleWWDC.jfif": "/AppleCopy/static/media/AppleWWDC.37fce6f18d69bf757d8f.jfif",
+    "static/media/HelloTAPTV.jfif": "/AppleCopy/static/media/HelloTAPTV.fea1f7453d9e07b5b14d.jfif",
+    "static/media/IpadproB.jfif": "/AppleCopy/static/media/IpadproB.82db82466bd04c17eebf.jfif",
+    "static/media/AppleHealthB.jfif": "/AppleCopy/static/media/AppleHealthB.c73c46b1c7e652abb5b6.jfif",
+    "static/media/AppleWatch.jfif": "/AppleCopy/static/media/AppleWatch.bc077b2d0b7e2c909092.jfif",
+    "static/media/ServantAPTV.jfif": "/AppleCopy/static/media/ServantAPTV.cffe6fd36c5e7eedf2d6.jfif",
+    "static/media/FAMKAPTV.jfif": "/AppleCopy/static/media/FAMKAPTV.d40db1ce0ddfcaf69788.jfif",
+    "static/media/AppleWatchB.jfif": "/AppleCopy/static/media/AppleWatchB.df6726a6528ba533b7e5.jfif",
+    "static/media/TBTAPTV.jfif": "/AppleCopy/static/media/TBTAPTV.faa797c1f2ab197dfecc.jfif",
+    "static/media/DEAPTV.jfif": "/AppleCopy/static/media/DEAPTV.e7967093ed5c06c509ab.jfif",
+    "static/media/ShrinKingAPTV.jfif": "/AppleCopy/static/media/ShrinKingAPTV.89a66638155822b2d7c5.jfif",
+    "static/media/Iphone14pro.jfif": "/AppleCopy/static/media/Iphone14pro.97684eea091ceac8ab25.jfif",
+    "static/media/IphoneTradeIn.jfif": "/AppleCopy/static/media/IphoneTradeIn.a05cdbffa19764579d51.jfif",
+    "static/media/appleCard.jfif": "/AppleCopy/static/media/appleCard.abc9da661dfaef0f5a9c.jfif",
+    "index.html": "/AppleCopy/index.html",
+    "main.54381fbc.css.map": "/AppleCopy/static/css/main.54381fbc.css.map",
+    "main.885658cd.js.map": "/AppleCopy/static/js/main.885658cd.js.map",
+    "787.c0bb0447.chunk.js.map": "/AppleCopy/static/js/787.c0bb0447.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54381fbc.css",
+    "static/js/main.885658cd.js"
+  ]
+}
