@@ -1,0 +1,23 @@
+.my-component {
+    font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    color: #333;
+    margin: 0 auto;
+    max-width: 980px;
+    padding: 20px;
+    min-height:200px;
+}
+  
+.info-section {
+    margin-bottom: 5px;
+}
+  
+.info-text {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 10px; /* reduced from 20px to 10px */
+    color: #8e8e93;
+}
+.blue-link:hover {
+    text-decoration: underline;
+  }

@@ -1,0 +1,48 @@
+.top-navbar {
+    background-color: grey;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    top:0px;
+    margin-bottom:2px;
+
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .nav-items {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav-item {
+    margin: 0 10px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .icon-apple,
+  .icon-search,
+  .icon-shopping-bag {
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .icon-apple:hover,
+  .icon-search:hover,
+  .icon-shopping-bag:hover {
+    color: #ccc;
+  }
